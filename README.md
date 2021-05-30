@@ -17,6 +17,8 @@ Hey, I'm LabGuy94 and welcome to my [Github Profile](https://github.com/LabGuy94
 <img align="left" alt="Unity" width="52px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-256%2Funity-5-555544.png&f=1&nofb=1" />
 <img align="left" alt="Arduino" width="52px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-256%2Farduino-4-569256.png&f=1&nofb=1" />
 <img align="left" alt="Discord" width="52px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2108%2FPNG%2F512%2Fdiscord_icon_130958.png&f=1&nofb=1" />
+<img align="left" alt="Lua" width="52px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Fthumbs%2F2x%2Flua-5-logo.png&f=1&nofb=1" />
+
 
 
 
