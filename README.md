@@ -23,6 +23,8 @@ Hey, I'm LabGuy94 and welcome to my [Github Profile](https://github.com/LabGuy94
 <br>
 <br>
 
+### Discord Profile ###
+![widget](https://discord.c99.nl/widget/theme-1/536606598660096040.png) 
 ### Profile Visits ###
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=labguy94.labguy94)
 
