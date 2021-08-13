@@ -4,7 +4,7 @@
 - 📫 How to reach me: LabGuy94#6666 and labdev@bbox3.com
 
 ### About Me ###
-Hey, I'm LabGuy94 and welcome to my [Github Profile](https://github.com/LabGuy94)
+Hey, I'm LabGuy94 and welcome to my [Github Profile](https://github.com/LabGuy94), if you desire, check out my repositories!
 
 ### Languages ###
 
