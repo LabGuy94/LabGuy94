@@ -28,7 +28,7 @@ Hey, I'm LabGuy94 and welcome to my [Github Profile](https://github.com/LabGuy94
 ### Profile Visits ###
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=labguy94.labguy94)
 ### Wakatime Stats ###
-[![LabGuy94's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LabGuy94)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LabGuy94&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ### Github Language Stats ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LabGuy94&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ### Github Stats ###
