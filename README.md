@@ -1,7 +1,11 @@
 ## Hi Im LabGuy94 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> ##
 
 
-- 📫 How to reach me: LabGuy94#6666 and labdev@bbox3.com
+- 📫 How to reach me: 
+labdev@bbox3.com and
+<br>
+
+![widget](https://discord.c99.nl/widget/theme-1/536606598660096040.png) 
 
 ### About Me ###
 Hey, I'm LabGuy94 and welcome to my [Github Profile](https://github.com/LabGuy94). if you desire, check out my repositories!
@@ -23,8 +27,6 @@ Hey, I'm LabGuy94 and welcome to my [Github Profile](https://github.com/LabGuy94
 <br>
 <br>
 
-### Discord Profile ###
-![widget](https://discord.c99.nl/widget/theme-1/536606598660096040.png) 
 ### Profile Visits ###
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=labguy94.labguy94)
 ### Wakatime Stats ###
