@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/717861061042241538/951524876261396550/standard4.gif">
+<img src="https://cdn.discordapp.com/attachments/717861061042241538/951524876261396550/standard4.gif" alt="banner gif">
 
 
 - 📫 How to reach me: 
