@@ -1,4 +1,4 @@
-<img src="standard(4).gif" alt="banner gif">
+<img src="standard(4).gif" alt="banner gif" align="center">
 
 
 - 📫 How to reach me: 
