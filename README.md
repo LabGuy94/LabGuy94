@@ -5,7 +5,7 @@
 labdev@bbox3.com and
 <br>
 
-![widget](https://discord.c99.nl/widget/theme-1/536606598660096040.png) 
+[![Discord Presence](https://lanyard.cnrad.dev/api/536606598660096040)](https://discord.com/users/536606598660096040)
 
 ### About Me ###
 Hey, I'm LabGuy94 and welcome to my [Github Profile](https://github.com/LabGuy94). if you desire, check out my repositories!
