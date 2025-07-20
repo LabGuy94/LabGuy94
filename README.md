@@ -23,3 +23,8 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 **just to listen to this crap while doing it?**
 
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313hyqfxqr6ys37mhupcz4nzhedu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=2e67d3&bar_color_cover=false" alt="Spotify stats" width="100%">
+
+**publishing for all to see?**
+
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
