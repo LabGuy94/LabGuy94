@@ -6,10 +6,6 @@
   <a href="https://www.unknowncheats.me/forum/members/5120071.html">UC</a>
 </h2>
 
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313hyqfxqr6ys37mhupcz4nzhedu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
-</p>
-
 **you wasted how much time the past month?**
 <!--START_SECTION:waka-->
 
@@ -22,3 +18,9 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+**just to listen to this crap while doing it?**
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313hyqfxqr6ys37mhupcz4nzhedu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+</p>
