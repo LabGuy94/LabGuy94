@@ -30,6 +30,6 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:feed-->
 <!-- feed start -->
-- Jun 07 - [Abusing Windows Crash Dumps](https://example.org/posts/abusingwindowscrashdumps/)
-- Apr 21 - [Automatic Pathfinding in Escape From Tarkov](https://example.org/posts/eftpathfinding/)
+- Jun 07 - [Abusing Windows Crash Dumps](http://readcc.net/posts/abusingwindowscrashdumps/)
+- Apr 21 - [Automatic Pathfinding in Escape From Tarkov](http://readcc.net/posts/eftpathfinding/)
 <!-- feed end -->
