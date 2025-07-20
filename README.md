@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://socialify.git.ci/LabGuy94/LabGuy94/image?custom_description=Turning+windows+internals+external&description=1&font=JetBrains+Mono&name=1&pattern=Signal&theme=Auto" alt="LabGuy94" width="700" height="300" />
+  <a href="https://readcc.net">
+    <img src="https://socialify.git.ci/LabGuy94/LabGuy94/image?custom_description=Turning+windows+internals+external&description=1&font=JetBrains+Mono&name=1&pattern=Signal&theme=Auto" alt="LabGuy94" width="700" height="300" />
+  </a>
 </p>
 <h2 align="center">
   <a href="http://readcc.net">Blog</a> •
@@ -23,8 +25,8 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 **publishing for all to see?**
 
 <!-- feed start -->
-- Jun 07 2024 - **[Abusing Windows Crash Dumps](http://readcc.net/posts/abusingwindowscrashdumps/)**
-- Apr 21 2024 - **[Automatic Pathfinding in Escape From Tarkov](http://readcc.net/posts/eftpathfinding/)**
+- Jun 07 2024 - **[Abusing Windows Crash Dumps](https://readcc.net/posts/abusingwindowscrashdumps/)**
+- Apr 21 2024 - **[Automatic Pathfinding in Escape From Tarkov](https://readcc.net/posts/eftpathfinding/)**
 <!-- feed end -->
 
 **just to jam to this while doing it all?**
