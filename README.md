@@ -23,8 +23,8 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 **publishing for all to see?**
 
 <!-- feed start -->
-- Jun 07 - [Abusing Windows Crash Dumps](http://readcc.net/posts/abusingwindowscrashdumps/)
-- Apr 21 - [Automatic Pathfinding in Escape From Tarkov](http://readcc.net/posts/eftpathfinding/)
+- Jun 07 2024 - **[Abusing Windows Crash Dumps](http://readcc.net/posts/abusingwindowscrashdumps/)**
+- Apr 21 2024 - **[Automatic Pathfinding in Escape From Tarkov](http://readcc.net/posts/eftpathfinding/)**
 <!-- feed end -->
 
 **just to jam to this while doing it all?**
