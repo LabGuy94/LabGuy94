@@ -19,8 +19,9 @@ jobs:
   update-rss:
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v2
+      - uses: actions/checkout@v4
+      - uses: sarisia/actions-readme-feed@v1
         with:
-          feed-url: http://readcc.net/index.xml
-          readme-section: feed
-          empty-commits: false
+          url: 'http://readcc.net/index.xml'
+          file: 'README.md'
+      - uses: sarisia/actions-commit@master
