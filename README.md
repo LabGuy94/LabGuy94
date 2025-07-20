@@ -26,5 +26,6 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 
 **publishing for all to see?**
 
-<!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+<!--START_SECTION:feed-->
+
+<!--END_SECTION:feed-->
