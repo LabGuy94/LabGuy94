@@ -9,15 +9,6 @@
 
 **you wasted how much time the past month?**
 <!--START_SECTION:waka-->
-
-```txt
-C++        49 hrs 6 mins   ███████████████████████░░   91.92 %
-Assembly   4 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
-C          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-```
-
 <!--END_SECTION:waka-->
 
 **just to listen to this crap while doing it?**

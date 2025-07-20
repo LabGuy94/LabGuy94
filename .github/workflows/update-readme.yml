@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Update README
 
 on:
   # for manual workflow trigger
@@ -16,3 +16,11 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: last_30_days
+  update-rss:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v2
+        with:
+          feed-url: http://readcc.net/index.xml
+          readme-section: feed
+          empty-commits: false
