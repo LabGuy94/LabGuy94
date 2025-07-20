@@ -1,5 +1,6 @@
 name: Blog post workflow
 on:
+  workflow_dispatch:
   schedule:
     # Runs every day at 3pm UTC (11pm SG)
     - cron: '0 15 * * *'
