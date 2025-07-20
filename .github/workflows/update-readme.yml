@@ -22,7 +22,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: sarisia/actions-readme-feed@v1
         with:
-          url: 'http://readcc.net/index.xml'
+          url: 'https://readcc.net/index.xml'
           file: 'README.md'
           format: '- ${monthshort} ${02day}, ${year} - **[${title}](${url})**'
       - uses: sarisia/actions-commit@master
