@@ -5,7 +5,9 @@
 </p>
 <h2 align="center">
   <a href="http://readcc.net">Blog</a> •
-  <a href="https://www.unknowncheats.me/forum/members/5120071.html">UC</a>
+  <a href="https://www.unknowncheats.me/forum/members/5120071.html">UC</a> •
+  <a href="https://discordapp.com/users/536606598660096040">Discord</a> •
+  <a href="mailto:lab@bbox3.com">Mail</a>
 </h2>
 
 
