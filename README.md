@@ -27,8 +27,8 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 **publishing for [all to see](https://readcc.net)**
 
 <!-- feed start -->
-- Jun 07 2024 - **[Abusing Windows Crash Dumps](https://readcc.net/posts/abusingwindowscrashdumps/)**
-- Apr 21 2024 - **[Automatic Pathfinding in Escape From Tarkov](https://readcc.net/posts/eftpathfinding/)**
+- Jun 07 2024 - **[Abusing Windows Crash Dumps](http://readcc.net/posts/abusingwindowscrashdumps/)**
+- Apr 21 2024 - **[Automatic Pathfinding in Escape From Tarkov](http://readcc.net/posts/eftpathfinding/)**
 <!-- feed end -->
 
 **just to [jam to this while](https://stats.fm/1337ontop) doing it all?**
