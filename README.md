@@ -1,6 +1,7 @@
 
 
 <!-- feed start -->
+- Aug 30 2026 - **[Exact Latents](https://readcc.net/posts/exactlatents/)**
 - Jan 02 2026 - **[Copy My Write](https://readcc.net/posts/copymywrite/)**
 - Aug 12 2025 - **[Runtime Hyper-V Hijacking](https://readcc.net/posts/runtimehypervhijacking/)**
 - Jun 07 2024 - **[Abusing Windows Crash Dumps](https://readcc.net/posts/abusingwindowscrashdumps/)**
